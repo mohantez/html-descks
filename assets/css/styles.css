@@ -1,0 +1,25 @@
+table{
+    width: 100%;
+font-family: "DejaVu Sans";border-collapse: collapse;
+    padding: 10px;
+background-color: brown;
+
+}
+td,th{
+    border: 2px solid black;
+}
+h1{
+    color: black;
+text-align: center;
+}
+td{color: aqua}
+th{
+    color: blue;
+    text-align: center;
+}
+
+body{
+    background-image: url("assets/images/bugati.jpeg");
+}
+
+

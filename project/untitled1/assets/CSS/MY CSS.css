@@ -1,0 +1,45 @@
+table{
+    padding: 50px;
+    line-break: strict;
+    grid-auto-flow: row;
+background-color: brown;
+margin: 0;
+border: 10px;
+border-collapse: collapse;
+width: 100%;
+}
+
+td,th{border: 2px solid black;
+
+   }
+
+
+
+
+
+
+p{
+    font-family: "DejaVu Sans";
+    margin: 0;
+    border: black;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

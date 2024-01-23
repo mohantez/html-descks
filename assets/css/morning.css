@@ -1,0 +1,22 @@
+.cars{
+    border: solid 3px blue;
+    margin: 30px;
+    padding: 40px;
+    background-image: url("../images/bugati.jpeg");
+    background-repeat: no-repeat;
+text-align: center;
+    background-size: cover;
+}
+
+.teams{
+
+    border: solid;
+    margin: 30px;
+    padding: 40px;
+    background-image: url("../images/Liv-Old-Trafford-630x473.jpg");
+text-align: center;
+background-repeat: no-repeat ;
+    background-position: center;
+    background-size: cover;
+
+}
